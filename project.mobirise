@@ -38,7 +38,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site 2026-02-25 22:29",
+    "name": "Zoom In! Film Fest",
     "versionFirst": "6.1.12",
     "siteFonts": [
       {
@@ -55,7 +55,20 @@
     "uniqCompNum": 1,
     "versionPublish": "6.1.12",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/transparent-128x57.png",
+    "mbrsiteDomain": "pdzjdgepl2",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-search": false,
+    "witsec-mailform": false,
+    "witsec-white-label": true,
+    "witsec-jquery": false
   },
   "pages": {
     "index.html": {
